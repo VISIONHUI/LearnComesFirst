@@ -12,3 +12,5 @@ Creating a new branch is quick And simple
 Creating a new branch is quick And simple
 >>>>>>> feature1
 what is wrong with this?
+XXX is what I love
+XXX is what I heat
